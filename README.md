@@ -1,4 +1,4 @@
-# Voici un site créé en HTML, CSS et JS par moi-même et mon collaborateur [Lilian Brosset](https://github.com/Redgakill)
+# Voici un site créé en HTML, CSS et JS par moi-même et mon collaborateur [Theotim ALBERTEAU](https://github.com/TheotimALBERTEAU)
 [Site Web](https://theotimalberteau.github.io/formation-html/)
 
 
